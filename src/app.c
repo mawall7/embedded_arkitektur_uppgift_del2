@@ -120,32 +120,32 @@ void app_init(void)
    
 
     //testa system vid start
-    //  red_led_on();
-    // _delay_ms(500);
+    red_led_on();
+    _delay_ms(500);
     
-    // red_led_off();
-    // _delay_ms(500);
+    red_led_off();
+    _delay_ms(500);
 
-    //  blue_led_on();
-    // _delay_ms(500);
+    blue_led_on();
+    _delay_ms(500);
      
-    //  blue_led_off();
-    // _delay_ms(500);
+    blue_led_off();
+    _delay_ms(500);
 
-    //  green_led_on();
-    // _delay_ms(500);
+    green_led_on();
+    _delay_ms(500);
 
-    //  green_led_off();
-    // _delay_ms(500);
+    green_led_off();
+    _delay_ms(500);
                   
-    //  buzzer_on();
-    //  _delay_ms(500);
-    //  buzzer_off();
+    buzzer_on();
+    _delay_ms(500);
+    buzzer_off();
      
-    //  servo_open();
-    //  _delay_ms(1000);
-    //  servo_close();
-    //  _delay_ms(1000);
+    servo_open();
+    _delay_ms(1000);
+    servo_close();
+    _delay_ms(1000);
      
     //  test_code_input();
 

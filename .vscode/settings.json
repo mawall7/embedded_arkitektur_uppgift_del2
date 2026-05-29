@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "io.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Programmering\\CC++\\IOT25\\embedded_iot25\\keycode_ del2\\NACK_IOT25_INL_DEL2\\build",
+            "binaryPath": "c:\\Programmering\\CC++\\IOT25\\embedded_iot25\\keycode_ del2\\NACK_IOT25_INL_DEL2\\build\\app.elf",
+            "binaryArgs": []
+        }
+    ]
+}
